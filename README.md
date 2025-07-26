@@ -1,11 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Faiz ALi</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Passionate Problem Solver</h3>
-## 📈 Contribution Snake
-
-## 📈c
-
-![Contribution Snake](https://github.com/Sayyed-faiz-ali/Sayyed-faiz-ali/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyed-faiz-ali&label=Profile%20views&color=0e75b6&style=flat" alt="sayyed-faiz-ali" /> </p>
