@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack | Passionate Problem Solver</h3>
 ## 📈 Contribution Snake
 
-## 📈 Contribution Snake
+## 📈c
 
 ![Contribution Snake](https://github.com/Sayyed-faiz-ali/Sayyed-faiz-ali/blob/output/github-contribution-grid-snake.svg)
 
